@@ -74,7 +74,45 @@
           },
           "name" : "Alabama Crimson Tide",
           "state" : "Alabama"
-        },
+        }, 
+"roster" : {
+            "OL" : {
+              "count" : 5,
+              "players" : [
+                {
+                  "ratPot" : "120",
+                  "position" : "OL",
+                  "ratDur" : "120",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "120"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Run Blocking",
+                      "value" : "120"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "120"
+                    },
+                    "playerStat5" : {
+                      "name" : "Strength",
+                      "value" : "120"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "120"
+                    },
+                    "playerStat7" : {
+                      "name" : "Pass Blocking",
+                      "value" : "120"
+                    }
+                  },
         {
           "abbreviation" : "UF",
           "prestige" : "25",
